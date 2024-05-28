@@ -3,7 +3,7 @@
 ## Overview
 
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. It is one of the most popular and highly anticipated cricket tournaments in the world. Here’s an overview of how the IPL tournament is organized and conducted.
-Lets looks at 10 glorying years of IPL history and dive into informative insights. This Excel dashboard provides a comprehensive analysis of the Indian Premier League (IPL) data for the season of 2008. The dashboard includes various visualizations and statistics to help understand team performance, player achievements, and match outcomes. 
+Lets take a look at 10 glorying years of IPL history and dive into informative insights. This Excel dashboard provides a comprehensive analysis of the Indian Premier League (IPL) data for the season from 2008. The dashboard includes various visualizations and statistics to help understand team performance, player achievements, and match outcomes. 
 
 ## Contents
 
